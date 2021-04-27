@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
-<h3 align="center">I'm a former steel sculptor and artist turned software engineer in Portland, Oregon.</h3>
+<h3 align="center">I’m a Pacific Northwest native living in Portland, OR. I’m a former steel artist, sculptor, amateur jiu-jitsu enthusiast, and full-stack software engineer with a passion for creating responsive and accessible webapps. I’ve worked extensively with React, Javascript, Node.Js, MongoDB, HTML, and CSS and am constantly expanding my knowledge. In my free time I love to read, learn new frameworks and languages, and when not in front of a computer I enjoy traveling, eating out at my favorite brunch places, and exploring the Pacific Northwest with my partners and our three cats.</h3>
 
 <p align="left"> <a href="https://twitter.com/stlfountain" target="blank"><img src="https://img.shields.io/twitter/follow/stlfountain?logo=twitter&style=for-the-badge" alt="stlfountain" /></a> </p>
 
